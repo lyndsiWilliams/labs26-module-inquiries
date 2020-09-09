@@ -14,7 +14,7 @@
         - AWS Amplify - AWS is growing quickly in popularity and learning how to use this will be more impressive to potential employers
     2b. Now take a moment to consider the disadvantages.
         - Redux - Not many disadvantages, other than a tedious setup
-        - AWS Amplify - I have never used this service so I will be learning this fresh and be expected to implement it accurately. This could cause some unforseen issues, but from what I've seen so far, I don't think it will be hard to learn.
+        - AWS Amplify - I have never used this service so I will be learning this fresh and be expected to implement it accurately. This could cause some unforeseen issues, but from what I've seen so far, I don't think it will be hard to learn.
 3. In one or two sentences, summarize why you ultimately made the choice you did.
     - We came to all these decisions together as a team, but the decisions were all unanimous - these will be the most efficient accepted technologies that we have available for this project.
 4. Extracting useful conclusions from your process:
